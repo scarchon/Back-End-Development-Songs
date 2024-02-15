@@ -27,6 +27,8 @@ pytest
 
 # Code Coverage
 coverage==6.3.2
+#pymongo
+pymongo==4.6.1
 
 # Utilities
 httpie==3.2.1
